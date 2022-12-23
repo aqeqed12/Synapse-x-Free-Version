@@ -1,2 +1,2 @@
-# Synapse-x-Free-Verison
+# Synapse-x-Free-Version
 free version of synapse x
